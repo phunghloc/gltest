@@ -1,0 +1,16 @@
+.header {
+	height: 60px;
+	width: 100%;
+	position: fixed;
+	background-color: #a8d5fdef;
+	z-index: 100;
+	display: flex;
+	justify-content: space-between;
+
+	svg {
+		height: 100%;
+    &:last-child {
+      margin-right: 18px;
+    }
+	}
+}

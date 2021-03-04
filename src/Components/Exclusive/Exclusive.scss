@@ -1,0 +1,56 @@
+.text-content {
+  .container {
+		h1,
+		.ant-typography {
+			color: var(--primary-color);
+      margin-bottom: 8px;
+		}
+
+    padding: 0 30px;
+    margin: 60px auto 36px;
+	}
+}
+
+.exclusive {
+	background-color: var(--white-color);
+
+	.img-container {
+		padding: 24px;
+		position: relative;
+
+		img {
+			width: 100%;
+		}
+
+		a {
+			position: absolute;
+			top: 30px;
+			right: 30px;
+
+			button {
+				border-radius: 50%;
+			}
+		}
+	}
+
+	.nav {
+		margin: 36px auto;
+		display: flex;
+		justify-content: center;
+
+		.count {
+			margin: auto 24px;
+			color: var(--primary-color);
+			font-size: 18px;
+		}
+
+		button {
+			padding: 0;
+      height: 48px;
+
+			svg {
+				font-size: 48px;
+			}
+		}
+	}
+}

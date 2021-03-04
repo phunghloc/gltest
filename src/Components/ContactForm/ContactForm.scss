@@ -1,0 +1,76 @@
+.contact {
+	background-color: var(--background-color);
+  
+	.content {
+		.image {
+			@media (max-width: 768px) {
+				display: none;
+			}
+		}
+
+		.form {
+			padding: 0 24px;
+			h2,
+			p {
+				color: var(--primary-color);
+				margin-bottom: 0;
+			}
+
+			form {
+				margin: 24px 0;
+
+				.ant-form-item {
+					margin-bottom: 12px;
+				}
+
+				input,
+				.ant-select-selector,
+				button {
+					background-color: transparent;
+					border-radius: 3px;
+					border-color: var(--primary-color);
+					color: var(--primary-color);
+
+					&::placeholder,
+					.ant-select-selection-placeholder {
+						color: var(--primary-color);
+					}
+				}
+
+				.ant-select-arrow {
+					color: var(--primary-color);
+				}
+
+				.checkbox {
+					margin: 4px 0;
+					span {
+						color: var(--primary-color);
+					}
+					.ant-checkbox-inner {
+						border-color: var(--primary-color);
+					}
+					&.first {
+						margin-top: 30px;
+					}
+					&.second {
+						margin-bottom: 18px;
+					}
+				}
+
+				.submit-btn {
+					text-align: center;
+					button {
+						span {
+							margin: auto 18px;
+						}
+
+						&:hover {
+							background-color: var(--primary-color);
+							color: var(--white-color);
+						}
+					}
+				}
+			}
+		}
+	}
+}
