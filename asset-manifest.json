@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/gltest.git/static/css/main.6829a227.chunk.css",
+    "main.js": "/gltest.git/static/js/main.99c7cc0a.chunk.js",
+    "main.js.map": "/gltest.git/static/js/main.99c7cc0a.chunk.js.map",
+    "runtime-main.js": "/gltest.git/static/js/runtime-main.bd111db9.js",
+    "runtime-main.js.map": "/gltest.git/static/js/runtime-main.bd111db9.js.map",
+    "static/css/2.acde8add.chunk.css": "/gltest.git/static/css/2.acde8add.chunk.css",
+    "static/js/2.716554cb.chunk.js": "/gltest.git/static/js/2.716554cb.chunk.js",
+    "static/js/2.716554cb.chunk.js.map": "/gltest.git/static/js/2.716554cb.chunk.js.map",
+    "static/js/3.4236d15d.chunk.js": "/gltest.git/static/js/3.4236d15d.chunk.js",
+    "static/js/3.4236d15d.chunk.js.map": "/gltest.git/static/js/3.4236d15d.chunk.js.map",
+    "index.html": "/gltest.git/index.html",
+    "static/css/2.acde8add.chunk.css.map": "/gltest.git/static/css/2.acde8add.chunk.css.map",
+    "static/css/main.6829a227.chunk.css.map": "/gltest.git/static/css/main.6829a227.chunk.css.map",
+    "static/js/2.716554cb.chunk.js.LICENSE.txt": "/gltest.git/static/js/2.716554cb.chunk.js.LICENSE.txt",
+    "static/media/HotspotBanner.scss": "/gltest.git/static/media/367df723468f39601e7abb8a76e24471.4bc4bf31.jpg",
+    "static/media/App.css": "/gltest.git/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd111db9.js",
+    "static/css/2.acde8add.chunk.css",
+    "static/js/2.716554cb.chunk.js",
+    "static/css/main.6829a227.chunk.css",
+    "static/js/main.99c7cc0a.chunk.js"
+  ]
+}
